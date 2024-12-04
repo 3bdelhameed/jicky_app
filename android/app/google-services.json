@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "733128683241",
+    "firebase_url": "https://smart-wearable-safety-ja-be5a0-default-rtdb.firebaseio.com",
+    "project_id": "smart-wearable-safety-ja-be5a0",
+    "storage_bucket": "smart-wearable-safety-ja-be5a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733128683241:android:45babd005322884b578a78",
+        "android_client_info": {
+          "package_name": "com.example.gp_flutterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRdtlkGoV0n1M5opeS139cQ9ZTtrBz9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733128683241:android:216653086a05fc0d578a78",
+        "android_client_info": {
+          "package_name": "com.example.jicky_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRdtlkGoV0n1M5opeS139cQ9ZTtrBz9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
